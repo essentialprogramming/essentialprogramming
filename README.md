@@ -1,5 +1,8 @@
-### Hi there 👋
+# :wave: Hey, I'm Razvan!
 
+Passionate about tech, modern web development, high performant server side technologies, and of course coffee. I will share here interesting projects, free resources and inspiration. 
+
+See some of my projects below :point_down:.
 <!--
 **essentialprogramming/essentialprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
