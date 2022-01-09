@@ -1,6 +1,6 @@
-# :wave: Hey, I'm Razvan!
+# :wave: Hello world!
 
-Passionate about tech, modern web development, high performant server side technologies, and of course coffee. I will share here interesting projects, free resources and inspiration. 
+You've reached my treasure mine. I'm a software engineer passionate about tech, modern web development, high performant server side technologies, and of course coffee. I will share here interesting projects, free resources and inspiration. 
 
 See some of my projects below :point_down:.
 <!--
